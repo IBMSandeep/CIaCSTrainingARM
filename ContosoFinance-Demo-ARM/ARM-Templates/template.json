@@ -50,7 +50,7 @@
 
     "sqlserverName": {
       "type": "string",
-      "defaultValue": "SandeepSekhar-CIaCSTraining-Sql",
+      "defaultValue": "sandeepsekhar-Sql",
       "metadata": {
         "description": "Select name for SQL Server"
       }
