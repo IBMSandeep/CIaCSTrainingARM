@@ -162,7 +162,7 @@
     },
     {
       "type": "Microsoft.Web/serverfarms",
-      "apiVersion": "2022-03-01-preview",
+      "apiVersion": "2022-03-01",
       "name": "[parameters('hostingPlanName')]",
       "location": "[resourceGroup().location]",
       "tags": {
