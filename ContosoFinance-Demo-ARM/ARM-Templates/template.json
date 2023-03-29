@@ -25,8 +25,7 @@
     },
     "hostingPlanName": {
       "type": "string",
-      "defaultValue": "SandeepSekhar-
-      Plan",
+      "defaultValue": "SandeepSekhar_CIaCSTraining-Plan",
       "metadata": {
         "description": "Select name for App Service Plan"
       }
